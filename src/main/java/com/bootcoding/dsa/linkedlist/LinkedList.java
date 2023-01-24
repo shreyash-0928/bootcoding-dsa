@@ -1,6 +1,6 @@
-package com.bootcoding.dsa;
+package com.bootcoding.dsa.linkedlist;
 
-    public class LinkedList {
+public class LinkedList {
         public static void main(String[] args) {
             Node firstnode = new Node(10);
             Node secondnode = new Node(20);
