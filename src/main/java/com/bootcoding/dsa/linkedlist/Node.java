@@ -1,4 +1,4 @@
-package com.bootcoding.dsa;
+package com.bootcoding.dsa.linkedlist;
 
 public class Node {
     int data;
