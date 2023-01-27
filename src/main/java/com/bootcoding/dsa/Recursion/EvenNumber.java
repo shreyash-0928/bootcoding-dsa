@@ -1,7 +1,7 @@
 package com.bootcoding.dsa.Recursion;
 
 public class EvenNumber {
-    public class EvenNo {
+
         public static void main(String[] args) {
             int num = 50;
             printEven(num);
@@ -18,5 +18,4 @@ public class EvenNumber {
             }
         }
 
-    }
 }
