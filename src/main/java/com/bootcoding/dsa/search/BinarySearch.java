@@ -2,7 +2,7 @@ package com.bootcoding.dsa.search;
 
 public class BinarySearch {
     public static void main(String[] args) {
-        int a[] = {2,3,4,5,6,7};
+        int a[] = {2,3,6,5,9,7};
         int x = 6;
         int index = binarysearch(a, x, 0, a.length-1);
         System.out.println(x + " is found at index " + index);
