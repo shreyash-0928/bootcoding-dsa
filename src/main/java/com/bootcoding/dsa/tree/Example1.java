@@ -64,3 +64,7 @@ public class Example1 {
 
     }
 }
+
+//Find Height of the tree
+//Find level of the tree
+// InOrder Successor
