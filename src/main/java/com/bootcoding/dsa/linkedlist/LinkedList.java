@@ -50,7 +50,10 @@ public class LinkedList {
                 temp = temp.next;
             }
         }
+
+    public void add(int i) {
     }
+}
 
 //temp.data = temp.next.data;
 //temp.next = temp.next.next;
