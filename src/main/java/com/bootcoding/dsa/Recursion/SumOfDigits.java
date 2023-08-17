@@ -2,7 +2,7 @@ package com.bootcoding.dsa.Recursion;
 
 public class SumOfDigits {
     public static void main(String[] args) {
-        int n = 94;
+        int n = 1342;
         System.out.println("Sum of digits : " + printSum(n));
     }
 
@@ -10,6 +10,6 @@ public class SumOfDigits {
         if(n<10){
             return n;
         }
-        return n%10 + printSum(n/10);
+         return n%10 + printSum(n/10);
     }
 }
